@@ -9,29 +9,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+holden#9999's discord profile
 
-# Header 1
-## Header 2
-### Header 3
+**About Me**
 
-- Bulleted
-- List
+hello! i am holden. i am the owner of blended, a roblox cafe. i enjoy roblox and discord. not much to say really.
 
-1. Numbered
-2. List
+**Current Roblox Jobs**
 
-**Bold** and _Italic_ and `Code` text
+Blended | President
+CMI | Chairperson (MR)
+WHS | Core Department
 
-[Link](url) and ![Image](src)
-```
+**Social Links**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/holdenishere/public-projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Roblox Profile](https://web.roblox.com/users/3051008631/profile)
+[Discord] holden#9999
