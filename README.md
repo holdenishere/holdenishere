@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @holdenishere
+- 👀 I’m interested in Roblox and Discord. I am also intresting in Lua programming.
+- 🌱 I’m currently learning node.js and Lua.
+- 📫 Reach me over on Discord: holden#9999 (12/4/21)
